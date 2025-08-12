@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Aug  5 13:20:32 2025
+Created on Tue Aug  11 13:20:32 2025
 
 @author: Allen Jones
 
@@ -8,12 +8,10 @@ Script to scrape out only the main body of a dissertation in (PDF) so I can list
 """
 
 import fitz  # PyMuPDF
-import re
 
 # --- Configuration ---
-# You can adjust these values if needed
-INPUT_PDF = "Nika Spaulding DMin Thesis FINAL.pdf"
-OUTPUT_PDF = "spaulding_clean.pdf" # The name of the new, clean file
+INPUT_PDF = "Nika Spaulding DMin Thesis FINAL.pdf"  # CHANGE THIS if your input file name is different
+OUTPUT_TEXT_FILE = "dissertation_clean.txt" # The name of the new, clean text file
 FOOTNOTE_SIZE = 10.0  # The font size of your footnotes
 BODY_SIZE = 12.0      # The font size of your main text and page numbers
 FOOTER_MARGIN = 72    # How many points from the bottom to consider the "footer area" (72 points = 1 inch)
@@ -23,73 +21,46 @@ def is_page_number(block_text, y_pos, page_height):
     Checks if a block of text is likely a page number.
     It must be in the footer area and contain only digits.
     """
-    # Check 1: Is the text block in the footer area?
     if y_pos < (page_height - FOOTER_MARGIN):
         return False
-        
-    # Check 2: Is the text content just a number?
-    # Strips any whitespace and checks if the result is all digits.
     if not block_text.strip().isdigit():
         return False
-        
     return True
 
-def clean_dissertation_page(page, new_page):
+def get_clean_text_from_page(page):
     """
-    Processes a single page, copying only the main body text.
+    Processes a single page, extracting only the main body text as a string.
     """
-    # Get all text blocks with detailed information
-    blocks = page.get_text("dict", flags=fitz.TEXTFLAGS_DEFAULT)["blocks"]
+    page_text = ""  # A string to hold all the clean text from this page
+    blocks = page.get_text("dict")["blocks"]
     
-    # Get all drawing elements to find the footnote separator line
-    drawings = page.get_drawings()
     
-    footnote_line_y = 0
-    # Find the horizontal line that separates footnotes
-    for path in drawings:
-        # A simple horizontal line is a path with two points with the same y-coordinate
-        if len(path['items']) == 2 and path['items'][0][0] == 'l':
-             p1 = path['items'][0][1]
-             p2 = path['items'][1]
-             # Check if it's a horizontal line (y-coordinates are very close)
-             if abs(p1.y - p2.y) < 1:
-                  # We only care about the first one we find from the top
-                  if p1.y > footnote_line_y:
-                      footnote_line_y = p1.y
-
-    # Iterate through each text block on the page
     for block in blocks:
         if "lines" in block:
             for line in block["lines"]:
                 for span in line["spans"]:
                     font_size = round(span["size"])
                     text = span["text"]
-                    origin_y = span["origin"][1] # The vertical position of the text
+                    origin_y = span["origin"][1]
                     
                     # --- APPLY OUR RULES ---
-                    
-                    # Rule 1: Is it a footnote? Check the font size.
-                    # As an extra check, if we found a separator line, we only
-                    # count text below it as a potential footnote.
                     is_footnote = (font_size == FOOTNOTE_SIZE)
-                    if footnote_line_y > 0 and origin_y < footnote_line_y:
-                        is_footnote = False # It's 10pt font, but above the line, so keep it.
-
-                    # Rule 2: Is it a page number?
                     is_p_num = (font_size == BODY_SIZE) and is_page_number(text, origin_y, page.rect.height)
 
                     # --- DECISION ---
                     # If it's not a footnote and not a page number, we keep it.
                     if not is_footnote and not is_p_num:
-                        # Insert the clean text into the new page
-                        new_page.insert_text(span["origin"],
-                                             text,
-                                             fontname=span["font"],
-                                             fontsize=span["size"],
-                                             color=span["color"])
+                        # Add the clean text to our page string
+                        page_text += text + " "
+                
+                # Add a new line character after each line of text to preserve paragraph breaks.
+                if not is_footnote and not is_p_num:
+                     page_text += "\n"
+    
+    return page_text
 
 def main():
-    """Main function to run the PDF cleaning process."""
+    """Main function to run the text extraction process."""
     try:
         doc = fitz.open(INPUT_PDF)
     except Exception as e:
@@ -97,21 +68,23 @@ def main():
         print(f"Details: {e}")
         return
 
-    new_doc = fitz.open()  # Create a new, empty PDF
+    full_clean_text = "" # A single string to hold the entire document's text
     
     print(f"Processing '{INPUT_PDF}'...")
     
     # Process each page
     for i, page in enumerate(doc):
         print(f"  - Cleaning page {i+1}/{len(doc)}")
-        new_page = new_doc.new_page(width=page.rect.width, height=page.rect.height)
-        clean_dissertation_page(page, new_page)
+        full_clean_text += get_clean_text_from_page(page) + "\n\n"
         
-    print(f"Saving cleaned file to '{OUTPUT_PDF}'...")
-    new_doc.save(OUTPUT_PDF, garbage=4, deflate=True)
-    new_doc.close()
+    print(f"Saving cleaned text to '{OUTPUT_TEXT_FILE}'...")
+    
+    # Write the final string to a text file
+    with open(OUTPUT_TEXT_FILE, "w", encoding="utf-8") as text_file:
+        text_file.write(full_clean_text)
+        
     doc.close()
-    print("Done!")
+    print("Done! ✨")
 
 if __name__ == "__main__":
     main()
