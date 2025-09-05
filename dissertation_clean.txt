@@ -1,776 +1,511 @@
-The Covenant Code: A New Way of  
-Reading the Writing 
-paul hocking 
-phocking@icloud.com  
-Abergavenny, Wales 
-moshe kline 
-moshekline@gmail.com  
-Jerusalem, Israel 
-In this article, we propose a new way of reading the Covenant Code in the book  
-of Exodus. We argue for a different way of understanding the ancient writing of  
-the code. Using synchronic, literary criticism of the second half of the Covenant  
-Code (Exod 22:17–23:19 [Eng. 22:18–23:19]), we read the laws as five pericope- 
-triads, rather than independently, on the basis of their repeated literary devices.  
-The resulting parallel pericopes appear as a literary “weave.” The flow of meaning  
-down the weave appears to visualize YHWH’s approach to building a holy nation.  
-The identification of woven composition presents new possibilities for an inte- 
-grated understanding of the literary context of specific laws. The meaning of any  
-given law is a function of its place in the weave. Therefore, much of this article is  
-directed at developing a more complex understanding of “context” than is usual.  
-We hypothesize that  literary weaving  was an ancient scribal paradigm in this  
-context, and that applying it to such texts may suggest rhetorical purpose for  
-repetitions and apparent disjunctures. 
-1 1  Diachronic studies include David P. Wright,  Inventing God’s Law: How the Covenant Code  
-of the Bible Used and Revised the Laws of Hammurabi  (Oxford University Press, 2009); John Van  
-Seters,  Law Book for the Diaspora: Revision in the Study of the Covenant Code  (Oxford University  
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
+Harvard University  
+The Committee on the Study of Religion  
+Fall 2024 Ph.D. Application  
+Hebrew Bible  
+  
+  
+  
+  
+  
+  
+  
+Writing Sample  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ANCIENT JEWISH EXEGETICAL TRADITIONS AND HISTORIOGRAPHIC PRACTICES  
+Methodological Reflections and Implications for Faith Communities   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+[This writing sample is an adaptation of the thesis I presented in partial fulfillment of the requirements for  
+the Master of Divinity degree at Harvard Divinity School]  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Michael Y. Helmy  
+  
 
 
-2 I.  The Literary Context 
-3 4 5 Press, 2003); Bernard M. Levinson, “Is the Covenant Code an Exilic Composition? A Response  
-to John Van Seters,” in  In Search of Pre-exilic Israel: Proceedings of the Oxford Old Testament Semi- 
-nar ,   ed. John Day, JSOTSup 406 (T&T Clark, 2004), 272–325; B. Kilchör, “The Direction of  
-Dependence between the Laws of the Pentateuch: The Priority of a Literary Approach,”  ETL  89  
-(2013): 1–14. For the ancient Near Eastern context, see T. Desmond Alexander,  Exodus , ApOTC  
-(InterVarsity Press, 2017), 447–49. 
-2  Alexander Samely et al.,  Profiling Jewish Literature in Antiquity: An Inventory, from Second  
-Temple Texts to the Talmuds  (Oxford University Press, 2013), 313. 
-3  Bernard S. Jackson,  Wisdom-Laws: A Study of the Mishpatim of Exodus 21:1–22:16  (Oxford  
-University Press, 2006), 45–54; Albrecht Alt, “The Origins of Israelite Law,” in  Essays on Old Testa- 
-ment History and Religion  (Blackwell, 1966), 88–132. 
-4  Jackson,  Wisdom-Laws , 54–59; Alexander,  Exodus , 509–10. 
-5  Joe M. Sprinkle,  “The Book of the Covenant”: A Literary Approach , JSOTSup 174   (JSOT  
-Press, 1994), 33–34. 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
+INTRODUCTION  
+For many religious people, the words of the Bible are considered divine, and thus, the chances that  
+contradictions and errors exist in the biblical text are slim, if not impossible. If there is an error, it is an error  
+in the interpretation or the interpreter’s assumptions, not in the Bible. In many Christian and Jewish circles,  
+including the Egyptian Presbyterian community to which I belong, the situation is even more complicated.  
+Many believers are overly concerned with a biblical hermeneutic that ardently presupposes the scientific  
+historicity of whatever is in the Bible. This presupposition depends on the belief that historians and biblical  
+scholars have proved the factuality of the biblical words. To be fair, some scholars have indeed tried, at times  
+successfully, to confirm the historicity of biblical events. However, to a greater extent, the conclusions of  
+most historical-critical studies contradict this biblical factuality presupposed by many religious believers.  
+This conflict is the foundation for the tension between the faith of religious communities and historical- 
+critical scholarship. Many faithful Christians and Jews believe the Bible to be trustworthy because it is  
+historically accurate, whereas historical-critical studies strongly contest this latter statement. This present  
+study aims to make a modest contribution to the many attempts to resolve this tension.   
+The essay argues that some biblical evidence suggests that ancient biblical authors 1  have had different  
+perceptions of history and historiography. In addition, the evidence pushes against claims for the universality  
+of the standards for examining ancient literature—its historicity and coherence, for example. 2  The main  
+priority of biblical authors seems to have been to offer stories that function as exhortations for readers who  
+are approaching the text “in submission, with a desire to learn its lessons.” 3  Therefore, it was vital for these  
+authors to decide on the best method to transmit their historical events in ways that meet this desire. “We see  
+1 2 3 
+
+that that author … had two choices: He could present the truest version of the bare facts, at the risk of losing  
+the true message of the story. Or he could ensure that we come away with the true lesson … at the expense of  
+factual accuracy.” 4  The Dead Sea Scrolls and other writings of early Jewish communities show us examples of  
+communities that seem to have realized in their sacred scripture what historians would delineate as historical  
+inaccuracies and still sanctified these texts in their own ways. 5  Early Jewish communities noticed the assumed  
+historical differences or contradictions yet approached them differently from historical critics and modern  
+faithful believers. “It is not the historical David and Saul, or Leah and Dinah which occupied the center of the  
+Rabbis’ interest. These had already died—what happened, happened—and their judgment is given over to  
+Heaven … It is much more important to the Rabbis to describe the characters in a way which would be  
+instructive, and it makes no difference who or what really was.” 6  Extrabiblical evidence asserts then that there  
+could be a way to delineate a text as true and trustworthy even if it does not accord strictly to modern  
+historical-critical standards for factuality. If that is true of these communities, one may also imagine it being  
+true of biblical times. Biblical authors perhaps have a distinctive perception of history and historiography,  
+more similar to the one we see in the Dead Sea Scrolls and Rabbinic texts. 7  If our reading of the evidence in  
+Chronicles and its  Vorlagen  is correct, we invite bible scholars and believers to rethink their equation of  
+historicity with linear factuality and begin approaching and evaluating biblical historical claims more in line  
+with the cultural intuitions of biblical authors that are derived from the text itself. 8  To do this, one must  
+4 5 6 7 8 
+
+adopt the rigor of historical and literary criticism  and simultaneously  respect biblical authors’ cultural  
+perceptions, faithfulness, and the sacredness of the biblical text. Arguably, this approach could present hope  
+for a reconciliation between the two poles: faith and historical-critical scholarship.    
+This study is divided into two parts. The first will be concerned with delineating some of the  
+compositional strategies of biblical authors in writing their histories. We will focus on the book of Chronicles  
+because it “provides clear examples of how at least one biblical historian worked and may shed light on the  
+work of earlier historians.” 9  Firstly, we will show that, unlike the conjectures of many scholars, the exegetical  
+practices often associated with the book of Chronicles and other so-called rewritten scripture texts 10  are not  
+exclusive to them but are continuing the literary inner workings that are already in place within other books  
+of the Hebrew Bible, including the Chronicler’s  Vorlagen : Samuel-Kings. By focusing mainly on the primary  
+evidence to discern how ancient authors wrote their histories, we highlight the incongruency between ancient  
+and historical-critical understandings of historiography. Still, this section emphasizes the inevitability of  
+historical-critical tools for describing ancient historiographic standards. 11     
+The second part of this essay will tackle some implications of the conclusions reached in the first  
+section on the tension between faith and historical-critical studies. We will converse with some ideas posited  
+by Jon D. Levenson and Joshua Berman, who tackle this tension. We contend that this tension might begin to  
+resolve if believers and historical-critical scholars reexamine their preoccupation with historicity and  
+9 10 11 
+
+maintain a type of approach to the Bible that is more nuanced and dependent on the ways ancient  
+understood and wrote their histories.  
+  
+THE COMPOSITIONAL NATURE OF THE BOOK OF CHRONICLES: A BRIEF HISTORY OF  
+SCHOLARSHIP  
+  
+[ This section is an adaptation of a more extended history of scholarship in my thesis. There, I also survey the  
+work of many scholars, including Julius Wellhausen, Pancratius Bornelis Beentjes, Simone De Vries, W. M. L.  
+De Wette, Peter Ackroyd, Isaac Kalimi, Hugh Williamson, Sara Japhet, Michael Fishbane, Gray Knoppers,  
+Ralph w. Klein, Thomas Willi, and Steven L. McKenzie .]   
+  
+Ever since Julius Wellhausen's  Prolegomena , no agreement has arisen among scholars regarding the nature of  
+the composition of the book of Chronicles. 12  Some have classified it as a midrash, 13  while others have taken it  
+as a history book (both in Leopold Ranke’s definition and otherwise), 14  exegesis, 15  or a theological  
+reinterpretation of its  Vorlagen. 16  While some of these qualifications—such as exegesis—are not far off the  
+12 13 14 15 16 
+
+mark, their exclusive designation to the book of Chronicles is. This limitation in Chronicles research reflects  
+scholars' inability to take into consideration the totality of the literary evidence found in Qumran, which, as  
+some have argued, reflects that rewriting presents a literary continuum—comprising the book of Chronicles  
+and many other Second Temple texts, including major parts of the Hebrew Bible—from earlier sources.  17    
+  
+In her monograph,  Genres of Rewriting in Second Temple Judaism , Molly Zahn identifies rewriting  
+not as a distinct genre of texts but as a literary method that has taken two forms:  revision and reuse . 18  The  
+difference between those two forms depends on the context.  Revision  texts rewrite the source to produce a  
+new copy, while  reuse  utilizes a source text to create new work. Therefore, while Zahn has perceived the book  
+of Chronicles as a new work, she has shown that the book should still be classified as a clear example of  
+rewriting, even if its processes are broader than mere copying or paraphrasing. Christophe Nihan discusses  
+the impact of the discoveries of Samuel manuscripts in Cave 4 of Khirbet Qumran on our understanding of  
+the composition and nature of the book of Chronicles as rewritten scripture. 19  He notes that the revisional  
+and rewriting activities many scholars see in Chronicles are not exclusive to it and are present—perhaps to  
+lesser extents—in other traditions of Samuel (i.e., MT Samuel or LXX Samuel). Nihan sees that these  
+rewriting traditions in both Chronicles and other ancient versions of Samuel—as well as in other Qumran  
+texts—“[represent] … a larger scribal trend in the Second Temple period.” 20  Nihan’s argument discloses the  
+limited impact rewritten scripture scholarship had on the study of Chronicles—its inability to observe the  
+17 18 19 20 
+
+similarities between the literary techniques employed in the book of Chronicles, other rewritten scripture  
+texts, and putatively “non-rewritten scripture” writings.   
+  
+A similar argument is also posited by D. Andrew Teeter, who says that the texts at Qumran, including  
+the writings scholars designate as rewritten scripture, incorporate similar literary techniques and redactional  
+activity to the ones we find in numerous other “non-rewritten scripture” texts to the extent that “one can  
+frequently trace virtually seamless connections between the internal process of redaction and inner-biblical  
+interpretation and the continuation of these processes within other texts of the period.” 21  These similarities,  
+for Teeter, show that rewritten scripture texts—in this case, the book of Jubilees was the case at hand—are  
+“continuation or further extension of traditionary processes at work in the compositional development of the  
+scriptural books themselves.” 22   
+  
+Next, we present a case study from Chronicles (21:18–27) that further advances these arguments. In a  
+more focused fashion, we show that the Chronicler utilizes similar compositional strategies as the ones found  
+in the Chronicles’ assumed  Vorlagen : Samuel-Kings, particularly 2 Samuel 24:18–25. 23    
+  
+  
+  
+21 22 23 
+
+  
+CASE STUDY: 2 CHRONICLES 21:18–27 // 2 SAMUEL 24:18–25  
+  
+Explaining the Differences  
+Thomas Willi, in his book  Die Chronik Als Auslegung , attempts to explain the differences between the two  
+accounts, or rather the Chronicler’s additions to, emissions from, and alterations to his source. In agreement  
+with others, Willi thinks this pericope in Chronicles should cause confusion for every attentive reader. Yet,  
+he writes,  
+Er bekommt aber schlagartig Sinn, wenn man ihn weniger als für sich durchkonstruierte Einheit  
+denn als Typologisierung nach der Begegnung Gideons mit dem Engel Jahwes erkennt [cf. Judge  
+6] … Es kann nicht verwundern, daß dem Chronisten eine Transaktion von solcher Tragweite  
+wie jene des   zukünftigen Tempelgrundstücks gar im Lichte einer Abrahamtypologie [cf. Gen  
+23]. 24   
+  
+Willi holds that the tension between 1 Chr. 21:18–27 and 2 Sam. 24:18–25 is resolved when one notices the  
+allusions of the story in Chronicles to Gideon’s narrative in Judges 6 and the Machpelah episode in Genesis  
+23. 25    
+Unlike the case in 2 Samuel 24, where we are told that Gad came on his own with the instruction to  
+build an altar for the  LORD  to avert the fatal plague (v. 18), 1 Chronicles 21 maintains that  an   angel of the  
+LORD   מלאך יהוה  sent Gad to David (v. 18). This addition alludes to the story of Gideon in Judges 6:11, where  
+an   angel of the  LORD   מלאך יהוה  appeared to Gideon. Another addition, namely v. 20, strengthens this allusion.  
+First, the Chronicler, unlike the author of Samuel, writes that Ornan was  threshing wheat   דש חטים  when he  
+saw the angel. This parallels Judges 6:11, where Gideon also met the angel while he was  threshing wheat  דשׁ  
+חטים . Secondly, in 1 Chr. 21:20, Ornan  turned   וישב  to see the angel, just like Gideon in Judg. 6:18, for whom  
+24 25 
+
+his angelic visitor waited to return  שוב . Lastly, both Ornan (1 Chr. 21:20) and Gideon (Judg. 6:22)  saw   ראה   
+the angel   המלאך . As noted by Willi, the allusions do not cease at v. 20. Ornan and Gideon showed features of  
+generosity; the former to David (1 Chr. 21:23) and the latter to the angel of the  LORD .   Both David and Gideon  
+built altars and offered sacrifices to the  LORD  (1 Chr. 21:26; Judg. 6:24–27). Further, the addition of the  
+consuming fire   באש מן השמים  in 1 Chr. 21:26 clearly parallels Judg. 6:21, where  the fire  האש  that consumed  
+Gideon’s sacrifice appeared. Finally, Willi observes that the negotiation section (1 Chr. 21:23–25) seems to be  
+portrayed in light of Abraham’s negotiations with Ephron at the cave of Machpelah in Genesis 23. Both  
+stories have a Canaanite 26  landowner offering, free of charge, a piece of land for an Israelite who insists on  
+paying the full price  כסף מלא  (1 Chr. 21:24; Gen 23:12).    
+  
+In Willi’s view, the Chronicler is utilizing his mastery over the Law and the Prophets as well as his  
+belief that the word of God is one and unchanging to write his account. 27  The Chronicler is rewriting his  
+sources to show the knowledgeable reader the hidden links between one story and the other. Still, though we  
+agree with Willi, we must add that his study needed to pay closer attention to the fact that the Chronicler is  
+presenting a text that demands of its readers the same requisites as those required to decipher the links in the  
+Chronicler’s  Vorlagen . The process, however, is made less challenging by the Chronicler by making the  
+allusions more explicit. This mode of interpretation can be traced throughout Chronicles. 28  The literary  
+tactics the Chronicler uses are extensions of the exegetical traditions already at play in his sources. It is  
+possible, therefore, to perceive the Chronicler’s composition as a  reading and interpretive guide  for the Law  
+26 27 28 
+
+and the Prophets. 29  In the next section, I will show that the David-Gideon and David-Abraham allusions we  
+just saw at play in Chronicles are also present in the book of Samuel.  
+1 Chr. 21:18–27: An Extension of Existing Redactional Development 30   
+David-Gideon’s Allusions in the book of Samuel   
+To begin with, both Gideon and David were mighty warriors called by God to act as saviors for the people of  
+Israel against their enemies. The former led the people against the Midianites, and the latter against the  
+Philistines. Whereas this similarity might seem general, for the Bible contains many characters occupying  
+similar roles, the stark verbal resemblance within their stories suggests otherwise. In Judg. 6, when  the angel  
+of the  LORD   מלאך יהיה  appeared to Gideon, he told him, “The  LORD  is with you, valiant warrior ( יהוה עמך גבור  
+החיל )” (v. 12). In parallel, we see in 1 Samuel 16 that when Saul asked for a man to relieve him from the  
+torments caused by the spirit of the  LORD ,   one of the attendees said, “I have seen a son of Jesse of Bethlehem  
+who knows how to play [the lyre], and a valiant warrior ( גבור חיל ), a man of war, discerning, handsome, and  
+the  LORD  is with him ( יהוה עמו )” (v. 18).  Only  David and Gideon in the Hebrew Bible are described as both  
+being valiant warriors and having God with them.   
+Though they are described as valiant warriors, their biblical text represents them as unexpected  
+biblical heroes. In Judg. 6, after Gideon heard about his mission from the angel of the  LORD ,   he was  
+29 30 
+
+astonished that God had chosen him. He asked, “But  LORD ,   how can I save Israel, for my clan is the smallest  
+in Manasseh, and I am the youngest in my father’s house ( ואנכי הצעיר בבית אבי )” (v. 15)? Though not as  
+explicit, we know that David is also the youngest in his father’s house. In 1 Sam. 16, Jesse told Samuel, in  
+reference to David, that “the youngest ( הקטן ) is remaining still, but he is shepherding the flock” (vv. 10–11),  
+and therefore, no one expected his anointing. His father did not even think bringing him before Samuel and  
+his brothers was necessary.  
+David-Abraham Allusions in the book of Samuel   
+The penultimate chapter of 1 Samuel, chapter 30, is full of David-Abraham allusions. Firstly, Abraham and  
+David had relatives who were taken prisoners, and their property was plundered. In Genesis 14, Abraham’s  
+nephew, Lot, was taken as a prisoner by the four victorious kings (vv. 11–12). Likewise, in Samuel 30, while  
+David was in battle, his wives were taken captive by the Amalekites (v. 5). As a result of these horrible  
+incidents, Abraham and David decided to set out against their enemies. Both defeated the large enemies of  
+their adversaries with only a small band of soldiers and brought back the captives (cf. Gen. 14 and 1 Sam.  
+30:9–20).   
+More intriguingly, in both stories, David and Abraham insisted that everyone should receive their  
+share in the plunder,  even those who did not fight . Abraham refused to take anything from the King of Sodom  
+that did not belong to him; he only required compensation for the food of the men who fought with him in  
+addition to the share of Aner, Eschol, and Mamre, who do not seem to have joined the fight (Gen. 14:22–24).  
+In 1 Sam. 30, after defeating the Amalekites and taking the plunder, David ensured that not only the 400  
+combatants had received their share but also the other fatigued 200 who did not partake in the fight. (vv. 21– 
+24). 31    
+31 
+
+It is also worth demonstrating that in the Hebrew Bible—apart from Chronicles—only Abraham and  
+Gideo are described as dying in a good old age  בשיבה טובה . Only in Chronicles do we learn that also David  
+died in a good old age  בשיבה טובה . One could thus postulate that besides the explicit allusions to Abraham  
+and Gideon in the episode at the threshing floor (1 Chr. 21:18–27), this additional two-in-one allusion is  
+another manifestation by the Chronicler of the allusions that already exist between David and Abraham and  
+between David and Gideon in his  Vorlagen . It seems that the Chronicler both realized the David-Abraham  
+and the David-Gideon allusions and decided to bring them all together in his own composition by adding the  
+phrase  בשיבה טובה  in David’s eulogy.   
+The Chronicler has composed a text that continues the literary tactics found in earlier source texts,  
+guiding the readers through the tectonics of the  Vorlagen ’s historiography. In light of this evidence, it is fair  
+to say that the kind of historiography we see in Chronicles and Samuel, among other biblical—and  
+extrabiblical texts—differs from modern understandings and practices of history writing. The priorities of  
+biblical historians, such as the Chronicler and the author of the book of Samuel, are providing exhortations  
+based on the interpretation of their stories and comparing their heroes rather than accurately recording their  
+history on the basis of the scientific method. The book of Chronicles should be understood as one of the  
+earliest  textbooks  for ancient Jewish literary practices used in writing Israel's history. This exegetical approach  
+to writing and rewriting history we see in Chronicles and its  Vorlagen  calls for evaluating scholarly standards  
+of biblical historiography—primarily focused on factuality and ideology—through a close analysis of the  
+literary strategies and techniques used by the biblical authors in their historiographic writings. 32    
+  
+  
+  
+32 
+
+FAITH AND HISTORICAL CRITICISM: A DISCUSSION WITH JON D. LEVENSON AND JOSHUA  
+BERMAN  
+  
+[ This is an adaptation of a more extended section of my thesis where I also converse Van A. Harvey and Yair  
+Zakovitch. ]   
+  
+In  Genres of Rewriting , Molly Zahn posits, in line with other scholars, that the rise of rewriting of Jewish texts  
+in antiquity accompanied the Jewish textual turn, beginning in the late pre-exilic period and arguably ending  
+with the canonization of the Hebrew Bible. In contrast, the Mesopotamian textual turn was accompanied by  
+a turn  away  from rewiring. 33  On the one hand, the Mesopotamian textual turn led to higher conceptions of  
+textual stabilization. On the other hand, the Jewish textual turn was characterized by a greater tolerance for  
+pluriformity. The Mesopotamians seem to have shown explicit discomfort with this proliferating literary  
+phenomenon. 34  Their discomfort reminded me of my reaction when I first learned about rewritten scripture  
+texts. How could communities perceive a text as authoritative and yet produce another composition that  
+sometimes changes, contradicts, and adds to the authoritative one? I have thus decided to dedicate a part of  
+my study to converse with one of the available examinations of this perturbing question by Jon D. Levenson.  
+I also attempt to show how the conclusions of the first part of this paper could contribute to the ongoing  
+deliberations.  
+The main argument of Levenson’s third chapter of his book  The Hebrew Bible, the Old Testament,  
+and Historical Criticism  is that the unity of the Torah should remain a vital component of theological and  
+scholarly discussions about the text despite the fact that Mosaic authorship is dismissed in historical-critical  
+scholarship. 35  While I agree with this argument, I should add that, in my view, the biblical presentation of  
+Moses as the author of the Torah and the obvious historical-critical evidence for this claim's historical  
+33 34 35 
+
+improbability should not necessarily be understood as a contradiction. 36  Instead, it is possible that whoever  
+inserted these authorial remarks had a literary, theological, or artistic reason for this decision. It is one of the  
+central tasks of the historical-critical tool to examine the various literary functions, poetic devices, and  
+probable compositional aims of ancient times, which could provide a newer view into ancient literary  
+tectonics. This view could perhaps constitute an acceptable compromise for both the believer and the critic.  
+The pivotal question is thus:  is there an ancient literary function or poetic device that could explain the  
+presence of contradictory claims in a literary unit?   
+Should we assume that we can crack open the literary signifiers of authorial intentions, the text would  
+not then be one with meanings that “no one ever meant,” 37  but rather a composition that utilizes various  
+literary tactics to create texts with particular meanings. This approach, influenced by the work of Brevard  
+Childs 38  and D. Andrew Teeter, could satisfy the two halves of the paradox Levenson mentions: the authority  
+of the Torah and the faithfulness of the biblical exegete. 39  If the historical-critical tool is utilized to investigate  
+ancient literary poetics, we might find ourselves closer to the minds of the biblical authors or redactors.   
+Later in his book, while discussing the problems of the Protestant contradistinction between scripture  
+and tradition, Levenson says that “without attention to postbiblical tradition, scripture vanishes before our  
+eyes, for the basis of religion in biblical times was not a Bible: the religion  in  the Book is not the religion  of   
+the Book.” 40  While Levenson’s stance is convincing, a few remarks are in order. It is indeed historically  
+probable that the books of the Hebrew Bible reflect earlier literary and religious traditions that are not  
+necessarily similar to those of the Bible that are less concerned with  the Book . However, given the exclusive  
+36 37 38 39 40 
+
+textual—contra oral—access to  the Book  and its existence in some physical canon, it is not easy to  
+differentiate between the religion(s)  in  the Book and that  of  the Book. In its physical—admittedly fluid and  
+pluriform—canon, the Book is our only source for religion  in  and  out   of  the Book. It is also the composition  
+out of which postbiblical traditions have arisen. That said, I strongly agree with Levenson’s point on the  
+significance of postbiblical traditions. In his view,  
+historical criticism does not afford us uninterpreted facts … ‘It too is a tradition, with its own values  
+and assumptions, derived from the Enlightenment and western humanism …’ [U]nless one holds  
+that the Bible does not deserve   to have survived its matrix—that the history of interpretation is only  
+a history of misinterpretation—historical criticism alone cannot suffice. For were the meaning of the  
+text  only  a function of the particular historical circumstances of its composition, recontextualization  
+would never have occurred, and no Bible would have come into existence … historical criticism must  
+learn to interact more creatively with those other [postbiblical] traditions, neither surrendering to  
+them nor demanding that they surrender to historical criticism. 41   
+  
+With this cogent treatment in mind, we want to make one positional remark. When it comes to  
+researching the literary poetics of the Bible, we should prioritize the literary strategies employed in the  
+latest books of the Bible, the postbiblical traditions at Qumran—especially the so-called rewritten  
+scripture texts—and early rabbinic interpretations, such as the expansionistic Targumim, over others.  
+The reason for this, as this paper tried to show with the example of Chronicles, is that their faithful  
+extension of the redaction development of their authoritative texts gets us as close as possible to the  
+literary traditions of the Book.   
+  
+The richness and the literary genius in biblical writings should be navigated in their own right.  
+By tracing the mechanism of scribal compositions, which has been made more explicit in Chronicles, we  
+have a good chance of adequately understanding and evaluating the biblical corpus. From a pragmatic  
+point of view, the burden of making these discoveries falls on biblical scholars and researchers, who, in  
+due course with a certain level of preparedness, can produce accessible literature for the layperson and  
+the scholar that will train them, on the one hand, to think accurately about biblical conceptions of  
+41 
+
+history, historiography, and myth and, on the other hand, by accurately describing the grammar of  
+biblical composition, teach them how to read the biblical texts.   
+  
+Recently, Joshua Berman published his semi-popular book  Ani Maamin: Biblical Criticism,  
+Historical Truth, and the Thirteen Principles of Faith , which deals with the tension between historical  
+criticism and faith. This book constitutes an excellent culmination of our proposed resolution for this  
+tension. Berman argues that in order to understand and properly evaluate the events in the Bible, “we  
+need to understand how the Torah reports … [events] …, we need to understand how the cultures of the  
+ancient world reported historical events generally.” 42  Berman untangles the strategies of historiography  
+in the Bible by analyzing them within their ancient Near Eastern context. Furthermore, Berman  
+emphasizes the function of the events narrated in the Tanakh. He believes that the authors of the Tanakh  
+were not so much concerned with providing their readers with factual events. Rather, their main priority  
+seems to have been to offer stories that function as exhortations for readers who are approaching the text  
+“in submission, with a desire to learn its lessons.” 43  Therefore, it was vital for these authors to decide on  
+the best method to transmit their historical events in ways that meet this desire. “We see that that author  
+… had two choices: He could present the truest version of the bare facts, at the risk of losing the true  
+message of the story. Or he could ensure that we come away with the true lesson … at the expense of  
+factual accuracy.” 44   
+It should be clear that this present study agrees with Berman's conclusion. His approach and  
+main ideas are vital for resolving the tension between historical criticism and faith. Historical-critical  
+scholarship must revise its evaluative standards for the biblical events and not rush into discrediting the  
+historical claims of the text on the basis of anachronistic views of the notions of historiography, history,  
+42 43 44 
+
+and myth. Instead, Berman suggests it should seek to understand and evaluate the text according to the  
+ancient criteria of these concepts. Nonetheless, Berman's method gives more attention to the ancient  
+Near Eastern context of the Bible than the biblical text itself. This attention shows Berman's preference  
+for the comparative method. Consequently, his book does not adequately describe the fullness and  
+richness of the biblical literary tactics and grammar of composition for the modern reader. In other  
+words, Berman's arguments convincingly highlight the methodological fallacies present in the modern  
+historical study of the Bible. They also teach us the importance of the ancient Near Eastern background  
+for understanding the biblical notions of history and historiography. However, it does not describe to  
+modern readers  how to read  the Bible after adjusting these anachronistic notions.   
+  
+CONCLUSION   
+In the first part of the present study, we tried to show that evidence from the book of Chronicles suggests that  
+some of the exegetical methods employed in Chronicles, such as typology and narrative analogy, are not  
+distinct to a literary genre or a group of texts, such as rewritten scripture, but are instead a continuation of a  
+scribal literary trend at work in earlier biblical texts, such as the book of Samuel. We have argued that what  
+we have in Chronicles is a different kind of historiography with an exegetical function that aims to disclose  
+the more implicit narrative analogies and hidden interpretive links in its sources. Moreover, the  
+historiographical techniques in Chronicles are not very different from the ones in its  Vorlagen . Although the  
+biblical authors of Chronicles and Samuel must have understood and cared about factual historiography, this  
+practice does not seem to be their main priority. They were more interested in the exegetical and exhortatory  
+functions of historiography. In light of this discussion, we think that more attention should be given to the  
+similarities of compositional strategies between the later books of the Hebrew Bible (e.g., the book of  
+Chronicles) as well as the Dead Sea Scrolls and their earlier sources (e.g., Samuel). We also presented and  
+reviewed two attempts at solving the tension between historical criticism and faith. We have argued that one  
 
 
-6 7 
-II.  Text as Weave: Methodological Assumptions 
-8 6  On creation, see Leon R. Kass,  The Beginning of Wisdom: Reading Genesis  (Free Press,  
-2003), 31; C. John Collins,  Genesis 1–4: A Linguistic, Literary, and Theological Commentary  (P&R  
-Publishing, 2006), 73. On the plagues, see Umberto Cassuto,  Perush ‘al Sefer Shemot  (Magnes,  
-1959), 61; Nahum M. Sarna,  Exodus   : שמות The Traditional Hebrew Text with the New JPS Transla- 
-tion , JPSTC (Jewish Publication Society, 1991), 38; Alec Motyer,  The Message of Exodus: The Days  
-of our Pilgrimage , Bible Speaks Today (InterVarsity Press, 2005), 111; Moshe Greenberg and  
-Jeffrey H. Tigay,  Understanding Exodus: A Holistic Commentary on Exodus 1–11 , 2nd ed. (Cas- 
-cade, 2013), 120–54. On offerings, see Didier Luciani, “Structure et Theologie en Lv 1,1–3,17,” in  
-The Books of Leviticus and Numbers , ed. Thomas Römer, BETL 215 (Peeters, 2008), 319–28, here  
-324 
-7  Moshe Kline, “The Editor Was Nodding: A Reading of Leviticus 19 in Memory of Mary  
-Douglas,”  JHebS  8 (2008): art. 17, 1–59, here 41, https://doi.org/10.5508/jhs.2008.v8.a17; Paul J.  
-Hocking, “A New and Living Way: A Study of Leviticus as Rhetoric; A Multi-Disciplinary Critique  
-of Moshe Kline’s Approach to the Reading and the Writing of the Book” (PhD thesis, University  
-of Chester, 2021), 262–63, https://chesterrep.openrepository.com/handle/10034/626200;  
-Moshe Kline,  Before Chapter and Verse: Reading the Woven Torah  (Kindle Direct Publishing,  
-2022), esp. 25, 31, and 43, https://www.amazon.com/Before-Chapter-Verse-Reading-Woven/ 
-dp/9655982718. 
-8  Toivo Viljamaa, “Text as  Hyphos  in Quintilian: Institutio oratoria 9.4.3–23,” in  Ad itum  
-liberum: Essays in Honour of Anne Helttula , ed. Outi Merisalo and Raija Vainio (University of  
-Jyväskylä, 2007), 131–38, here 132 and n. 3, and 135. 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
+step towards attending to this tension is for scholars to be aware of the dangers behind scholarly  
+anachronistic conceptions of historiography in the study of the Bible. A more extensive study of the  
+historiographic grammar and techniques in the Bible should offer both the scholar and the believer a more  
+sophisticated framework for understanding the historical claims found within the biblical corpus.   
+  
+  
 
 
-9 10 11 III.  The Literary Unit 
-The Unit Weave 
-12     9  Mary E. Hocks, “Understanding Visual Rhetoric in Digital Writing Environments,”  Col- 
-lege Composition and Communication  54.4 (2003): 629–56, here 634; Walter J. Ong,  Orality and  
-Literacy: The Technologizing of the Word , New Accents (1982; repr., Routledge, 1997), 77. 
-10  Susan Niditch,  Oral World and Written Word: Ancient Israelite Literature , LAI (West- 
-minster John Knox, 1996); David M. Carr,  Writing on the Tablet of the Heart: Origins of Scripture  
-and Literature  (Oxford University Press, 2005); H. Van Dyke Parunak, “Oral Typesetting: Some  
-Uses of Biblical Structure,”  Bib  62 (1981): 153–68; Marianna E. Vogelzang and Herman L. J.  
-Vanstiphout,  Mesopotamian Epic Literature: Oral or Aural?  (Mellen, 1992); John Miles Foley,  
-Oral Tradition and the Internet: Pathways of the Mind  (University of Illinois Press, 2012). 
-11  Hanno H. J. Ehses, “Representing MacBeth: A Case Study in Visual Rhetoric,” in  Design  
-Discourse: History, Theory, Criticism , ed. Victor Margolin (University of Chicago Press, 1989),  
-53–63, here 59. 
-12  See further on rhetorical symmetry in the Hebrew Bible and the Mishnah in Hocking,  
-“New and Living Way,” 13–36, 157–73, 185–210. 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
+BIBLIOGRAPHY  
+  
+Ackroyd, Peter R. “The Chronicler as Exegete.”  Journal for the Study of the Old Testament  1, no. 2   
+(1976): 2–32.  
+———.  The Chronicler in His Age . Journal for the Study of the Old Testament. Supplement Series 101.   
+Sheffield: JSOT Press, 1991.  
+Amit, Yairah. “Studies in the Poetics of Chronicles.” In  ספר חמ”י גבריהו: מחקרים במקרא ובמחשׁבת ישׂראל .   
+Jerusalem: Kiryat Sefer, 1989.  
+Beentjes, Pancratius Cornelis.  Tradition and Transformation in the Book of Chronicles . Studia Semitica   
+Neerlandica 52. Leiden; Boston: Brill, 2008.  
+Berman, Joshua.  Ani Maamin: Biblical Criticism, Historical Truth, and the Thirteen Principles of Faith .   
+Jerusalem: Maggid, 2020.  
+Bernstein, Moshe J. “‘Rewritten Bible’: A Generic Category Which Has Outlived Its Usefulness?”   
+Textus , no. 22 (2005): 169–96.  
+Brettler, Marc Zvi.  The Creation of History in Ancient Israel . London ; New York: Routledge, 1995.  
+Childs, Brevard S.  Introduction to the Old Testament as Scripture . 1st American ed. Philadelphia:   
+Fortress Press, 1979.  
+Crawford, Sidnie White.  Rewriting Scripture in Second Temple Times . Studies in the Dead Sea Scrolls   
+and Related Literature. Grand Rapids, Mich.: William B. Eerdmans Pub. Co., 2008.  
+De Vries, Simon J.  1 and 2 Chronicles . Vol. 11. The Forms of the Old Testament Literature. Grand   
+Rapids, Mich.: W.B. Eerdmans Pub. Co., 1989.  
+Falk, Daniel K.  The Parabiblical Texts: Strategies for Extending the Scriptures in the Dead Sea Scrolls .   
+Companion to the Qumran Scrolls 8. London: T&T Clark, 2007.  
+Fishbane, Michael. “Aggadic Exegesis in the Historiographical Literature.” In  Biblical Interpretation in   
+Ancient Israel , 380–407. Oxford: Clarendon, 1985.  
+Graham, M. Patrick, and Steven L. McKenzie, eds.  The Chronicler as Author: Studies in Text and   
+Texture . Journal for the Study of the Old Testament. Supplement Series 263. Sheffield, Eng.:  
+Sheffield Academic Press, 1999.  
+Graham, M. Patrick, Steven L. McKenzie, and Gary N Knoppers, eds.  The Chronicler as Theologian:   
+Essays in Honor of Ralph W. Klein . Journal for the Study of the Old Testament. Supplement Series  
+371. London; New York: T & T Clark International, 2003.  
+Herr, M.D. “The Conception of History among the Sages.” In  Proceedings of the Sixth World Congress   
+of Jewish Studies , 3:129–42. Jerusalem: האיגוד העולמי למדעי היהדות, 1973 
+.  
+James A, Sanders, and McDonald Lee M, eds.  The Canon Debate . Peabody, Mass.: Hendrickson   
+Publishers, 2002.  
+Japhet, Sara.  I & II Chronicles: A Commentary . 1st American ed. Old Testament Library. Louisville,   
+Ky.: Westminster/John Knox Press, 1993.  
+———. “The Historical Reliability of Chronicles.”  Journal for the Study of the Old Testament  33   
+(1985): 83–107.  
+Kalimi, Isaac.  An Ancient Israelite Historian: Studies in the Chronicler, His Time, Place and Writing .   
+Studia Semitica Neerlandica 46. Assen: Royal Van Gorcum, 2005.  
+———. “History of Interpretation: The Book of Chronicles in Jewish Tradition.”  Revue Biblique  105,   
 
 
-L 
-M 
-R 
-1 
-22:17 
-22:18 
-22:19 
-2 
-22:20 
-22:21–23 
-22:24–26 
-3 
-22:27 
-22:28–29 
-22:30 
-4 
-23:1–3 
-23:4–6 
-23:7–9 
-5 
-23:10–11 
-23:12–13 
-23:14–19 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
+no. 1 (1998): 5–41.  
+———.  The Reshaping of Ancient Israelite History in Chronicles . Winona Lake, Ind.: Eisenbrauns,   
+2005.  
+Knoppers, Gary N.  I Chronicles, 1-9: A New Translation with Introduction and Commentary . 1st ed.   
+Vol. 12. Anchor Bible. New York: Doubleday, 2004.  
+Kratz, Reinhard G. “Rewriting Torah in the Hebrew Bible and the Dead Sea Scrolls.” In  Wisdom and   
+Torah: The Reception of “Torah” in the Wisdom Literature of the Second Temple Period , edited by  
+D. Andrew Teeter and Brend U. Schipper, 163:273–92. Supplements to the Journal for the Study of  
+Judaism. Leiden: Brill, 2013.   
+Levenson, Jon D.  The Hebrew Bible, the Old Testament, and Historical Criticism . 1st ed. Louisville,   
+Ky.: Westminster/John Knox Press, 1993.  
+Mroczek, Eva.  The Literary Imagination in Jewish Antiquity . New York, NY: Oxford University Press,   
+2016.  
+Najman, Hindy.  Seconding Sinai: The Development of Mosaic Discourse in Second Temple Judaism .   
+Vol. 77. Supplements to the Journal for the Study of Judaism. Leiden ; Boston: Brill, 2003.  
+Newman, Judith H.  Before the Bible: The Liturgical Body and the Formation of Scriptures in Early   
+Judaism . New York, NY: Oxford University Press, 2018.  
+Nihan, Christophe. “Textual Fluidity and Rewriting in Parallel Traditions.”  Journal of Ancient Judaism    
+4, no. 2 (2013): 186–209.  
+Samely, Alexander.  Profiling Jewish Literature in Antiquity: An Inventory, from Second Temple Texts to   
+the Talmuds . Oxford: Oxford University Press, 2013.  
+Teeter, D. Andrew. “On ‘Exegetical Function’ in Rewritten Scripture: Inner-Biblical Exegesis and the   
+Abram/Ravens Narrative in Jubilees.”  The Harvard Theological Review  106, no. 4 (2013): 373–402.  
+———.  Scribal Laws: Exegetical Variation in the Textual Transmission of Biblical Law in the Late   
+Second Temple Period . Forschungen zum Alten Testament 92. Tübingen: Mohr Siebeck, 2014.  
+———. “The Hebrew Bible and/as Second Temple Literature: Methodological Reflections.”  Dead Sea   
+Discoveries  20, no. 3 (2013): 349–77.  
+Teeter, D. Andrew, and William A Tooman. “Standards of (in)Coherence in Ancient Jewish Literature.”   
+Hebrew Bible and Ancient Israel  9, no. 2 (2020): 94–129.   
+VanderKam, James C. “Questions of Canon Viewed Through the Dead Sea Scrolls.” In  The Canon   
+Debate , edited by L. M. McDonald and J. A. Sanders, 91–109. Peabody, Mass.: Hendrickson  
+Publishers, 2002.  
+Wellhausen, Julius.  Prolegomena to the History of Israel . Translated by John Sutherland and Allan   
+Menzies. Edinburgh: A&C Black, 1885.  
+Willi, Thomas.  Die Chronik als Auslegung: Untersuchungen zur literarischen Gestaltung der   
+historischen Überlieferung Israels . Forschungen zur Religion und Literatur des Alten und Neuen  
+Testaments FRLANT 106. Göttingen: Vandenhoeck & Ruprecht, 1972.   
+Williamson, Hugh.  1 and 2 Chronicles . New Century Bible Commentary. Grand Rapids, Mich. :   
+London: Eerdmans Pub Co, 1982.  
+Yerushalmi, Yosef H.  Zakhor: Jewish History and Jewish Memory . Samuel & Althea Stroum Lectures   
+in Jewish Studies. Seattle, Washington; London, England: University of Washington Press, 1996.  
+Zahn, Molly M.  Genres of Rewriting in Second Temple Judaism: Scribal Composition and   
+Transmission . Cambridge, UK: Cambridge University Press, 2020.  
 
 
-Warp Threads 
-Weft Threads  
-Relationship to: 
-L 
-Earthly-Oriented 
-Mundane 
-Immanent 
-M 
-Conceptual  
-Middle between  
-the Mundane  
-and Divine 
-R 
-YHWH-­ 
-Oriented 
-Divine 
-Transcendent 
-1. Outsiders 
-1L 
-1M 
-1R 
-2. Disenfranchised 
-2L 
-2M 
-2R 
-3. Societal Authority 
-3L 
-3M 
-3R 
-4. Justice System 
-4L 
-4M 
-4R 
-5. YHWH’s Nation 
-5L 
-5M 
-5R 
-13 
-13  Paul Hocking and Moshe Kline, “Handout: A New Reading of the Ancient Writing,”  
-https://doi.org/10.13140/RG.2.2.24338.94409.  
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-Thread 1 
-Relationship to: 
-1L 
-Mundane 
-Immanent 
-1M 
-Conceptual  
-Middle 
-1R 
-Divine 
-Transcendent 
-1. Outsiders 
-22:17  
-The-one-sorcery- 
-ing   
-[f, i.e., the  
-sorceress] shall  
-not be allowed to  
-live. 14 
-22:18  
-Anyone-lying   
-with a beast  
-surely shall be  
-put to death. 15 
-22:19  
-The-one-sacrific- 
-ing  to the gods  
-shall be  
-destroyed, 16   
-unless to YHWH,  
-to him alone. 
-17 18 
-14  The consonantal form here ( ) תחיה could be pointed as  piel ,  pual ,  hiphil  or  hophal  and as  
-second-person masculine singular or third-person feminine singular! As the verbs in the parallel  
-segments are (uniquely, in this literary unit) third-person singular and also passive ( hophal ), we  
-translate as  pual / hophal  third-person feminine singular, “she shall not be allowed to live” (Dale  
-Patrick,  Old Testament Law  [John Knox, 1985], 84; Sprinkle,  Book of the Covenant , 162 n. 1). 
-15  The compound verb here   מֹות יּומַ ת is an emphatic use of the infinitive absolute (“to die”)  
-with the third-person masculine singular  hophal  of the same verb (passive, lit., “he shall be put to  
-death”). Everett Fox translates this as “is to be put to death, yes, death” ( The Five Books of Moses:  
-Genesis, Exodus, Leviticus, Numbers, Deuteronomy; A New Translation with Introductions, Com- 
-mentary, and Notes , Schocken Bible 1 [Schocken, 2000], 382). 
-16  This  hophal  verb   יָחֳ רָ ם means to be devoted or to banned. “The idea is that it would be  
-God’s to do with as he liked. What was put under the ban was for God alone, either for his service  
-or for his judgment. But it was out of human control. Here the verb is saying that the person will  
-be utterly destroyed” (NET, Exod 22:20, n. 46). 
-17  These three laws “differ markedly in both form and content from what precedes them.”  
-(Alexander,  Exodus , 500). Some scholars consider them to be the closure of the first half of the  
-Covenant Code. With others, however, we see this triad as the opening of the second half of the  
-code, for syntactic and semantic reasons, as well as its  inclusio  with thread 5 (see the main text).  
-As above, up to 22:16 is clearly marked by casuistic formulae (“if … then …”), but this unit follows  
-an apodictic format—simple commands in the imperfect.  
-18  Sprinkle,  Book of the Covenant , 161 n. 1, 162. 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-19 Thread 5 
-5L 
-Mundane 
-Immanent 
-5M 
-Conceptual  
-Middle 
-5R 
-Divine 
-Transcendent 
-A.  23:10 And  six  
-years  you shall sow  
-your land and gather  
-its produce.  
-23:11  And the seventh   
-you shall let it drop  
-and relinquish it  
-(leave fallow),  
-A.  23:12  Six days  you  
-shall do your works/ 
-deeds.  
-And  on  the seventh   
-day you shall cease, 20   
-A.  23:14  Three times 21  you-shall- 
-festival 22  to-me  in-the-year .  
-     I.  23:15 The festival of  ma ṣṣ ôt / 
-unleavened-bread you shall keep 23   
-seven days ; you shall eat  ma ṣṣ ôt  as I  
-charged you, at the appointed time of  
-the month of Abib, for in it you went  
-out from Egypt (and they shall not  
-appear before my presence empty- 
-handed.)  
-19  Sprinkle,  Book of the Covenant , 162–63. 
-20  The verb   שבת means to cease or stop, and by extension, “to sabbath.”  
-21  The rare term opening “A” (v. 14) strictly means “three feet” or three foot-beats, maybe  
-indicating the pilgrim festivals, three times a year, journeying to the sanctuary. 
-22  The verb  , חגג meaning “to celebrate,” or “to festival.” 
-23  This is the same verb as in 23:13  , שמר but in the  qal  stem, second-person masculine  
-singular, “you shall keep.” 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-5L 
-Mundane 
-Immanent ( cont. ) 
-5M 
-Conceptual  
-Middle ( cont. ) 
-5R 
-Divine 
-Transcendent ( cont. ) 
-and the poor of your  
-people shall eat,  
-and their leftover, the  
-living-thing (animal)  
-of the field shall eat.  
-Also shall you do for  
-your vineyard and for  
-your olive grove. 
-In order that your ox  
-and your donkey may  
-rest,  
-and the son of your  
-handmaid and the  
-sojourner may be  
-refreshed. 24   
-B.  23:13 And in all  
-that I said to you,  
-you (pl.) shall keep  
-yourselves, 25   
-And the name of  
-other gods you [pl.]  
-shall not bring to  
-memory, it shall not  
-be heard on your  
-mouth. 
-     II.  23:16 And the festival of the  
-harvest, the firstfruits of your works  
-that you sow in the field,  
-     III.  and the festival of in-gathering,  
-when goes out the year, when you in- 
-gather your works (= produce) from  
-the field. 
-B. 23:17  Three times 26   in the year  shall  
-appear each of your male(s) to the  
-presence of the Lord YHWH. 
-     I.  23:18 You shall not sacrifice with  
-leaven my blood sacrifice. 27 
-   II.  And it shall not remain overnight,  
-the fat of my festival, till the morning. 
-   III.  23:19 The beginning of the first– 
-fruits of your soil you shall bring to the  
-house of YHWH your God.  
-C. (VII).  You shall not boil a kid in the  
-milk of its mother. 
-24   The verb   נפש in the  niphal  means here “to be refreshed” or “to be (re)souled.” 
-25   The  niphal  verb, so probably reflexive in this context, “you [pl.] shall keep yourselves,” but  
-it could be passive, “you shall be kept” (in all that I said to you). The active reflexive sense would  
-match the parallel  hiphil  active verb in B: “you [pl.] shall not cause to remember.” These are the  
-only two second-person masculine plural verbs in this thread. 
-26   The word opening B (v. 17) is the usual word for “times,”  , פעמים not as in v. 14, maybe  
-emphasizing the occasion rather than the pilgrimage. So, A has three festival laws, and B has three  
-laws (two sacrifice laws and one firstfruit law; so A–B has 3 + 2 + 1, mirroring the 1 + 2 + 3 laws  
-in threads 2–4). 
-27  Literally, “the blood of my sacrifice,” as genitive of specification: “my blood-sacrifice”  
-(Umberto Cassuto,  A Commentary on the Book of Exodus  [Magnes, 1967], 304). This expression  
-occurs elsewhere only in Exod 34:25 of the Passover, so B.–I and B.–II here are about Passover  
-regulations, assumed parallel to A.–I, the Ma ṣṣ ôt Festival. So, with Rashi, Norman Snaith (“Exo- 
-dus 23:18 and 34:25,”  JTS  20 [1969]: 323–48), and Menahem Haran ( Temples and Temple-Service  
-in Ancient Israel: An Inquiry into Biblical Cult Phenomena and the Historical Setting of the Priestly  
-School  [Eisenbrauns, 1985]). 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-28 28  The word   גדי probably means a young male goat (Menahem Haran, “Seething a Kid in Its  
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-29 30 31 32 33 34 35 
-36 
-Mother’s Milk,”  JJS  30 [1979]: 31–33 and n. 25), in contrast to Rashi (Exod 23:19), who assumed  
-the young of any domestic animal.  
-29  Moses Maimonides,  The Guide for the Perplexed , trans. M. Friedländer, 2nd rev. ed.  
-(Dover, 1956), 37; P. C. Craigie, “Deuteronomy and Ugaritic Studies,”  TynBul  28 (1977): 155–69,  
-here 156. 
-30  In the regulations for Sukkot (Num 29), the term used for the sin-offering goat is  שעיר־ 
- , עזים probably indicating a hairy male type of goat (rather than of cattle) ( DCH  8, s.v. “ ;” שעיר 
-HALOT,  s.v. “ ,)” שעיר and certainly this resonates here in Exod 23:19 with “a young male goat”  
-and “its mother” (( ) אמו  , גדי Cassuto,  Commentary on the Book of Exodus ; Motyer,  Message of  
-Exodus , 242). 
-31  Craigie, “Deuteronomy and Ugaritic Studies,” 156–59; Jacob Milgrom, “You Shall Not Boil  
-a Kid in Its Mother’s Milk: An Archaeological Myth Destroyed,”  BRev  1.3 (1985): 47–55. 
-32  Cassuto,  Commentary on the Book of Exodus , 305; Haran, “Seething a Kid,” 29–30. 
-33  Stefan Schorch, “ ‘A Young Goat in Its Mother’s Milk’? Understanding an Ancient Prohibi- 
-tion,”  VT  60 (2010): 123–29. 
-34  Ernst Axel Knauf, “Zur Herkunft und Sozialgeschichte Israels: ‘Das Böckchen in der  
-Milch seiner Mutter,’ ”  Bib  69 (1988): 153–69, here 153–54; Alan Cooper, “Once again Seething a  
-Kid in Its Mother’s Milk,”  Jewish Studies Internet Journal  10 (2012): 133–42; Jacob Milgrom,  Leviti- 
-cus 1–16: A New Translation with Introduction and Commentary , AB 3 (Doubleday, 1991), 741. 
-35  J. Webb Mealey, “You Shall Not Boil a Kid in Its Mother’s Milk (Exod. 23:19b; Exod.  
-34:26b; Deut. 14:21b): A Figure of Speech?,”  BibInt  20 (2012): 35–72, here esp. 63. 
-36  Michael Fishbane, “Biblical Colophons, Textual Criticism and Legal Analogies,”  CBQ  42  
-(1980): 438–49. 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-the  37 Threads 1 and 5 as an  Inclusio 
-5L 
-Mundane 
-Immanent 
-5M 
-Conceptual Middle 
-5R 
-Divine 
-Transcendent 
-1 
-Live  () תחיה Whoever lies with  
-an animal  () בהמה 
-sacrificing  to a god,  
-unless to  YHWH 
-5 
-the  living-thing  ( ) חיה of  
-the field 
-on the seventh day you  
-shall cease, so that  
-your ox and your donkey   
-may rest 
-You shall not  
-sacrifice   my blood-  
-sacrifice  with leaven …  
-you shall bring your  
-firstfruits to the house of  
-YHWH your God 
-37   Some see verse 17 as an  inclusio  (closure) with verse 14 (e.g., S. R. Driver,  The Book of  
-Exodus: In the Revised Version with Introduction and Notes , CBSC [Cambridge University Press,  
-1911; repr., Forgotten Books, 2018], 249); others, as a parallel alternation (continuity) (Sprinkle,  
-Book of the Covenant , 188–89; Cooper, “Once Again Seething a Kid,” 111). Either way, there are  
-three festival commands in verses 14–16 and three offering commands in verses 18–19a. 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-38 39 
-1 
-Outsiders 
-2 
-One law per segment 
-Three Stages of Socialization 
-3 
-Two laws per segment 
-4 
-Three laws per segment 
-5 
-YHWH’s Nation 
-38  Frank Crüsemann,  The Torah: Theology and Social History of Old Testament Law , trans.  
-Allan W. Mahnke (Fortress, 1996), 182. 
-39  Alexander,  Exodus , 441, 443; Sprinkle,  Book of the Covenant , 182, 184. 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-Thread 2 
-2L 
-Mundane 
-Immanent 
-2M 
-Conceptual Middle 
-2R 
-Divine 
-Transcendent 
-22:20  
-A sojourner   
-you [sg.] shall not  
-cheat  
-and you shall not  
-oppress him,  
-for sojourners you  
-[pl.] were in the  
-land of Egypt. 
-22:21  
-Any widow or  
-orphan   
-you [sg.] shall not  
-oppress.  
-22:22  If  you [sg.]  
-indeed oppress him,  
-when he indeed  
-cries out to me, I will  
-indeed hear his cry.  
-22:23 And My wrath  
-shall burn and I  
-will kill you [pl.]  
-with the sword, and  
-your wives shall be  
-widows and your  
-children orphans. 
-22:24  If  money you lend my people,  
-the oppressed/poor among you , 40   
-you shall not be to him like a creditor,  
-you shall not set on him interest.  
-22:25  If  you indeed take in pledge your  
-fellow’s cloak till the going down of the  
-sun, (then) you shall return it to him.  
-22:26 For it is his covering, for him  
-alone, it is his cloak for his skin—in  
-what can he lie?  
-And it will be when he cries out to Me,  
-I will hear,  
- for compassionate I (am)  
-40   The noun here ( ) עני has the same root as the verb “oppress” (   ענה II ) in the other two  
-segments, meaning those who are oppressed or afflicted, and so, the poor generally ( DCH  6,  
-s.v. ­“  ענה II”). 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-41 42 41  Jackson,  Wisdom-Laws , vii, 23–25; exemplified in Assnat Bartor, “Reading Biblical Law  
-as Narrative,”  Proof  32 (2012): 292–311; and Jonathan Burnside, “At Wisdom’s Table: How Narra- 
-tive Shapes the Biblical Food Laws and Their Social Function,”  JBL  135 (2016): 223–45, https:// 
-doi.org/10.15699/jbl.1352.2016.3042. 
-42  Though it is “elliptical” here, see Wright,  Inventing God’s Law , 335. 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-Thread 3 
-43 43  Alexander,  Exodus , 514–15; Driver,  Book of Exodus , 235–36. 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-3L 
-Mundane 
-Immanent 
-3M 
-Conceptual Middle 
-3R 
-Divine 
-Transcendent 
-A  22:27 Judges 44 
-you [sg.] shall not belittle   
-B  and a leader among your  
-people  
-you [sg.] shall not curse . 
-A  22:28 Your fullness (of  
-harvest) and your juice (of  
-vintage)  
-you [sg.] shall not hold- 
-back.  
-B  The firstborn of your  
-sons shall you [sg.] give  
-to me.  
-22:29 Thus you [sg.] shall  
-do for your ox, your lamb:  
-seven days it shall be with  
-its mother: on the eighth  
-day, shall you give it to me. 
-A  22:30 And people of  
-holiness 
-shall you [pl.] be to me,  
-B  and flesh in the field torn  
-you [pl.] shall not eat:  
-to the dog shall you [pl.]  
-fling it. 
-45 46 
-44  The word   אלהים is translated here as “judges,” rather than as “God,” as in Exod 21:6 and  
-22:8 (BDB, s.v. “  אֱ ֹלהִ ים 1”). See below for explanation (but contra Cyrus H. Gordon, “  אלהים in Its  
-Reputed Meaning of  Rulers, Judges ,”  JB L 54 [1935]: 135–44, https://doi.org/10.2307/3259316). 
-45  Motyer,  Message of Exodus , 241. 
-46  Alexander,  Exodus , 515. 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-Thread 4 
-4L 
-Mundane 
-Immanent 
-4M 
-Conceptual 
-Middle 
-4R 
-Divine 
-Transcendent 
-A 
-23:1 You shall not  
-convey an empty/ 
-vain hearing  
-(rumor).  
-You shall not place  
-your hand 47  with  
-the wicked one  to  
-be a false witness 
-23:4 If you  
-encounter the ox of  
-your enemy  or his  
-donkey straying,  
-you must surely  
-return it to him. 
-23:7 From a lying word (false matter)  
-stay far away, and/so the innocent  
-and  the righteous one  you shall not  
-kill, for I will not  pronounce-righ- 
-teous 48   the wicked one. 
-B 
-23:2 You shall not  
-be following the  
-many 49  to evils,  
-and you shall  
-not respond  in a  
-dispute  to bias (it),  
-following the many  
-to cause bias. 
-23:5 If you see  
-the donkey of  the  
-one hating you   
-lying down under  
-its load, then you  
-shall refrain from  
-leaving him. You  
-shall surely restore  
-him. 50 
-23:8 A gift/bribe you shall not take,  
-for a bribe blinds the open-eyed  
-(ones) and perverts the words of  the  
-righteous (ones). 
-C 
-23:3 And a poor- 
-man you shall not  
-honor (= favor)  in  
-his dispute . 
-23:6 You shall not  
-bias the judgment  
-(= tilt the balance)  
-of your needy one  
-in his dispute . 
-23:9 And a sojourner you shall not  
-oppress, for you (pl.) know the soul of  
-a sojourner, for sojourners you were  
-in the land of Egypt. 
-47  Literally, but could mean “make common cause” (NET) or “lend support” or “shaking  
-hands in agreement” (Alexander,  Exodus , 507). 
-48  Heb.   אַ צְ ּדִ יק hiphil , “cause to be righteous,” or “declare righteous,” so, “justify.” 
-49  “The many” or “the great,” so not swayed by public opinion or those with power (Sprinkle,   
-Book of the Covenant , 184). 
-50  Probably a wordplay here on the root   ,עזב with two homonyms, probably meaning “leav- 
-ing” in the middle clause (refrain from leaving him), but meaning “restore” or “lift to its feet” in  
-the last clause ( DCH  6, s.v., “  עזב I, II”; NET here n. 14; Cassuto,  Commentary on the Book of  
-Exodus,  297–98). 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-51 52 53 54 51  Helmuth Frey, “Das Ineinander von Kirche und Welt im Licht der Komposition des  
-Bundes­buchs,”  WD  1 (1948): 13–35, here 22–29; contra John I. Durham,  Exodus , WBC 3 (Word,  
-1987), 331; Sprinkle,  Book of the Covenant , 183. 
-52  Alexander,  Exodus , 517. 
-53  Moshe Kline, “Reading Deuteronomy 21:10–25:4 as a Table: An Examination of the Lit­ 
-erary Structure of Biblical Legal Codes” (paper presented at the SBL Annual Meeting in New  
-Brunswick, New Jersey, in 2005). 
-54   Alexander,  Exodus , 516. 
-L 
-And a poor person 
-you shall not  favor 
-R 
-And a sojourner you  
-shall not  oppress 
-M 
-You shall not  tilt the balance  of  
-your needy one in his dispute 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-4L 
-4M 
-4R 
-A + B 
-Witnesses 
-Adversaries 
-Judges 
-C 
-           The Balance of Social Justice 
-Thread 2 and 4C Compared 
-L 
-Mundane 
-Immanent 
-M 
-Conceptual Middle 
-R 
-Divine 
-Transcendent 
-2 
-22:20  
-A  sojourner   
-you shall not cheat  
-and you shall not  
-oppress him, for  
-sojourners  you were  
-in the land of  
-Egypt. 
-22:21  
-Any  widow or  
-orphan  you shall  
-not oppress …  
-22:23 And my  
-wrath shall burn  
-and I will kill you  
-with the sword, and  
-your wives shall be  
-widows  and your  
-children  orphans . 
-22:24  
-If money you lend my people,  the  
-oppressed/ poor  [ ] עני with you … 
-4C 
-23:3  
-And  a poor-man  
-[ ] דל you shall not  
-favor in his dispute. 
-23:6  
-You shall not bias  
-the judgment (= tilt  
-the balance) of  your  
-needy one  in his  
-dispute. 
-23:9  
-And a  sojourner  you shall not op- 
-press, for you know the soul of  
-a  sojourner , for sojourners you were  
-in the land of Egypt. 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-IV.  Conclusion 
-Weft  
-Thread 
-Text 
-Structure 
-of Triad Segments 
-Function of Each Law Triad  
-(Weft Color) 
-Relationship of YHWH’s People  
-with … 
-1 
-22:17–19 
-One short law, no reason 
-Outsiders 
-2 
-22:20–26 
-One law, but with reason 
-The Disenfranchised 
-3 
-22:27–30 
-Two laws (pairs) 
-The Authorities, including YHWH  
-himself 
-4 
-23:1–9 
-Three laws (pair + single) 
-Societal Order, the Legal System 
-5 
-23:10–19 
-6 + 1 structure 
-National Order and YHWH’s  
-Calendar 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-55 56 57 58 55  Alexander,  Exodus , 450. 
-56  Sprinkle,  Book of the Covenant , esp. 27–29. 
-57  Sprinkle,  Book of the Covenant , 197, 206. 
-58  Jacob Milgrom,  Leviticus 23–27: A New Translation with Introduction and Commentary ,  
-AB 3B (Doubleday, 2001), 2129–30. 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-59 
-60 59  The literary unit structure for the whole of Exodus and the Torah is published in Kline,  
-Before Chapter and Verse , 111–275. 
-60  See Kline,  Before Chapter and Verse , 32, 45–75; and Kline, “The Literary Structure of the  
-Mishnah: Erubin Chapter X” [Hebrew],  Alei Sefer  14 (1987): 1–30; Kline, “The Structured Mish- 
-nah: An Address to the Talmud Faculty of the Jewish Theological Seminary of America, March  
-21, 2005,” Academia.edu (2005), https://www.academia.edu/42783319/Introduction_to_The_ 
-Structured_Mishnah; Hocking, “New and Living Way,” 185–210. 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
-
-
-Order online at https://cart.sbl-site.org or email us at sblpressorders@aidcvt.com. 
-SBL Press and Brown Judaic Studies e-books available from SBL Press, Amazon, and Google Play 
-Resources for Biblical Study 
-READING GENDER IN JUDGES: AN INTERTEXTUAL APPROACH 
-Shelley L. Birdsong, J. Cornelis De Vos, and Hyun Chul Paul Kim, editors 
-Much of Judges can be understood only when read together with other parts of  
-the Hebrew Bible. Narratives in Judges comment, criticize, and reinterpret other  
-texts, often by troubling gender, disrupting stereotypical binaries, and creating  
-a kind of gender chaos. This volume brings together gender criticism and inter- 
-textuality, methods that align with intersectional lenses, to draw attention to how  
-race, ethnicity, class, religion, ability, sex, and sexuality all play a role in how one is  
-gendered in the book of Judges. 
-Paperback $49.00 • Hardcover $69.00 • E-book $49.00 
-IMPURITY AND PURIFICATION IN EARLY JUDAISM AND THE  
-JESUS TRADITION 
-Thomas Kazen 
-This collection of twelve essays by Thomas Kazen focuses on issues of purity  
-and puriﬁ cation in early Judaism and the Jesus tradition. During the late Second  
-Temple period, Jewish purity practices became more prominent than before and  
-underwent substantial developments. Kazen advances the ongoing conversation  
-and debate about a number of key issues in the ﬁ eld, such as the relationship  
-between ritual and morality, the role and function of metaphor, and the use of  
-evolutionary and embodied perspectives. 
-Paperback $55.00 • Hardcover $75.00 • E-book $55.00 
-EDITORIAL TECHNIQUES IN THE HEBREW BIBLE: TOWARD A  
-REFINED LITERARY CRITICISM 
-Reinhard Müller and Juha Pakkala 
-Editorial Techniques in the Hebrew Bible: Toward a Reﬁ ned Literary Criticism  chal- 
-lenges recent skepticism about the possibility of reconstructing the diachronic  
-development of the Hebrew Bible. Reinhard Müller and Juha Pakkala reﬁ ne the  
-methodologies of literary and redaction criticism through a systematic investiga- 
-tion of the additions, omissions, replacements, and transpositions found in  
-divergent ancient textual traditions. The end result is an essential handbook and  
-practical guide for students and scholars grappling with the historical develop- 
-ment of biblical texts. 
-Paperback $87.00 • Hardcover $107.00 • E-book $87.00 
-Downloaded from http://scholarlypublishingcollective.org/sblpress/jbl/article-pdf/144/2/217/2283535/217hocking.pdf by Society of Biblical Literature-Journal of Biblical Literature user on 11 July 2025 
+———.  Rethinking Rewritten Scripture: Composition and Exegesis in the 4Qreworked Pentateuch   
+Manuscripts . Leiden: Brill, 2011.  
+Zakovitch, Yair. “Assimilation in Biblical Narratives.”  Empirical Models for Biblical Criticism , 1985,   
+175–96.  
+———. “Story Versus History.”  World Congress of Jewish Studies  8, no. Panel Sessions: Bible Studies   
+and Hebrew Language (1981): 47–60.  
+  
 
 
